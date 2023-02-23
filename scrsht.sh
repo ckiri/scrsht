@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Write path to save Screenshot
 path=$XDG_PICTURES_DIR/scrsht-%y-%m-%d-%s.png
